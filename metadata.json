@@ -1,0 +1,7 @@
+{
+  "name": "StyleHub Clothing E-Commerce",
+  "description": "A modern, fully functional clothing e-commerce platform with Men's, Women's, and Kids' collections, featuring secure JWT-simulated authentication and a user dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
